@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity Awareness Chatbot
-### PROG6221 – Part 1
+### PROG6221
 
 A C# console-based chatbot that educates users on cybersecurity topics.
 
